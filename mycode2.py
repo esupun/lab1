@@ -5,6 +5,7 @@ def main():
 
     for x in range(5):
         print(x)
+        sys.exit()
 
 
 if __name__ == "__main__":
