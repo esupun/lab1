@@ -1,9 +1,10 @@
 import re
+import sys
 
 def main():
     print("Hellow")
 
-    for x in range(5):
+    for x in range(6):
         print(x)
         sys.exit()
 

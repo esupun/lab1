@@ -4,6 +4,6 @@
 from ipaddress import ip_address
 
 def main():
-    print("hi there")
+    print("hi theree")
     for x in range(5):
         print(x)

@@ -10,7 +10,7 @@ def main():
     for line in lines:
         print(f"lines are  {line}")    
 
-    print("trust no one")
+    print("trust no one2")
 
 if __name__ == "__main__":
     main()
