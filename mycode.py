@@ -1,10 +1,11 @@
 import logging
 
-logging.basicConfig(filename="logging.log",level=logging.INFO, format=(%(asctime)s %(time)s) %(message))
+logging.basicConfig(filename="logging.log",level=logging.INFO)
 
 
 def main():
-        with open('hosts.txt'):
+        with open('hosts.txt') as f:
+              lines = f.readlines()
             
     
 

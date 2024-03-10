@@ -3,4 +3,5 @@
 
 from ipaddress import ip_address
 
-def main()
+def main():
+    print("hi")

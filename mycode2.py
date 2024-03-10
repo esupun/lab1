@@ -1,3 +1,4 @@
 import re
 
-def main()
+def main():
+    print("Hellow")
