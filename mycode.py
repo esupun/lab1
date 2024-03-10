@@ -4,3 +4,8 @@ logging.basicConfig(filename="logging.log",level=logging.INFO, format=(%(asctime
 
 
 def main()
+    
+
+
+if __name__ == "__main__":
+    main()
