@@ -4,7 +4,7 @@ import sys
 def main():
     print("Hellow")
 
-    for x in range(6):
+    for x in range(7):
         print(x)
         sys.exit()
 
